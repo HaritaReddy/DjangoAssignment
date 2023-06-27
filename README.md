@@ -1,0 +1,1 @@
+Load Person objects into the database using the command: python3 manage.py loaddata person.json
